@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/sabinvs/.github/main/profile/assets/banner-sabinvs.png" alt="SABINVS PRODUCTIONS: a criatividade é a força principal da alma" width="100%">
 
-### A criatividade é a força principal da alma.
-
 A **SABINVS PRODUCTIONS** é um estúdio de Goiânia que junta **tecnologia** e **entretenimento**. A gente cria produto do zero, da ideia à tela, e gosta de mostrar como faz.
 
 #### O que estamos criando
@@ -15,11 +13,9 @@ Visão computacional que corrige a pose de fisiculturismo em tempo real, articul
 
 #### Quem faz
 
-| | |
-|---|---|
-| **Luiz Sabino** | Founder |
-| **Igor Ferreira** | Co-Founder |
-| **Haryston Daniel** | Head of Infrastructure |
+- **Luiz Sabino** · Founder
+- **Igor Ferreira** · Co-Founder
+- **Haryston Daniel** · Head of Infrastructure
 
 ---
 
