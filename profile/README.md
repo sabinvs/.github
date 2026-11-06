@@ -16,6 +16,7 @@ Visão computacional que corrige a pose de fisiculturismo em tempo real, articul
 - **Luiz Sabino** · Founder
 - **Igor Ferreira** · Co-Founder
 - **Haryston Daniel** · Head of Infrastructure
+- **Carlos Gabriel** · Developer
 
 ---
 
